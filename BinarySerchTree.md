@@ -11,5 +11,5 @@
 Question 1)<br>
 Write the Binary-Search-Tree steps of the array [7, 5, 1, 8, 3, 6, 0, 9, 4, 2].<br>
 <p>
-  <img src="https://github.com/semihguezel/Data-Structures-and-Algorithms/blob/Main/images/BinarySearchTree.png" width="300" height = "300" title="Insertion Sort">
+  <img src="https://github.com/semihguezel/Data-Structures-and-Algorithms/blob/Main/images/BinarySearchTree.png" width="600" height = "500" title="Insertion Sort">
 </p>
